@@ -43,6 +43,11 @@ This project involves processing video frames to detect faces and swap them with
     ```sh
     pip install -r requirements.txt
     ```
+4. **Install the Dependencies**:
+
+    ```sh
+   place the "inswapper_128.onnx" in models folder
+    ```
 
 ## Usage
 
